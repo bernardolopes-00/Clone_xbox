@@ -6,5 +6,5 @@
 
 <div>
     <h3>Para acessar o site:</h3>
-    <a url="https://clone-xbox.netlify.app/" target="_blank">Ver o site</a>
+    <a src="https://clone-xbox.netlify.app/" target="_blank">Ver o site</a>
 </div>
